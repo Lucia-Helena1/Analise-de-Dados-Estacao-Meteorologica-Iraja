@@ -1,0 +1,3 @@
+# Análise de Dados Estação Meteorológica Irajá
+## A base de dados utilizada neste trabalho refere-se às medições realizadas pela estação meteorológicas localizada no bairro de IRAJÁ, no período entre 2012 e 2021 com medições realizadas no espaço de meia hora entre elas, sendo então uma base de dados temporal.
+Para mais detalhes sobre este dataset, consulte: https://www.data.rio/datasets/PCRJ::qualidade-do-ar-dados-hor%C3%A1rios/explore?layer=2
